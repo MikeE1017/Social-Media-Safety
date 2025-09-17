@@ -2,7 +2,9 @@
 How to be safe while on social media
 <!DOCTYPE html>
 <html lang="en">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Be Safe on Social Media</title>
 </head>
 <body>
     <!-- HEADER: Contains the main title of the page -->
@@ -18,5 +20,24 @@ How to be safe while on social media
                However, it can also put you at risk if you are not careful.</p>
             <p>Hackers, scammers, and people with bad intentions can use your posts and personal information against you.
                Learning how to protect yourself is the first step toward a safer online experience.</p>
+        </section>
+         <!-- SECTION 2: Tips for safe social media use -->
+        <section>
+            <h2>Tips for Staying Safe</h2>
+            <!-- UNORDERED LIST: Best practices for safety -->
+            <ul>
+                <li>Use strong and unique passwords.</li>
+                <li>Enable two-factor authentication on all accounts.</li>
+                <li>Think twice before sharing personal information.</li>
+                <li>Review and update privacy settings regularly.</li>
+            </ul>
+        <!-- ORDERED LIST: Step-by-step actions for account security -->
+            <h3>Steps to Protect Your Account</h3>
+            <ol>
+                <li>Update your passwords every few months.</li>
+                <li>Turn on login alerts to be notified of suspicious logins.</li>
+                <li>Always log out when using a shared computer or device.</li>
+                <li>Report fake accounts or suspicious messages immediately.</li>
+            </ol>
         </section>
         
