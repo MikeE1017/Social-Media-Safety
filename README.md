@@ -41,19 +41,4 @@ How to be safe while on social media
             </ol>
         </section>
         
-        <!-- SECTION 3: Image with descriptive alt text -->
-        <section>
-            <h2>Think Before You Post</h2>
-            <!-- IMAGE: Using relative path with alt text and width -->
-            <img src="images/social-safety.jpg" alt="Person safely using social media on a phone" width="400">
-            <p>Once something is posted online, it can be shared, copied, and saved by others — even if you delete it later. 
-               Protect yourself by only sharing information that you are comfortable with anyone seeing.</p>
-        </section>
-    </main>
-
-    <!-- FOOTER: Includes internal link to page 2 -->
-    <footer>
-        <p><a href="page2.html">Learn More on Page 2</a></p>
-    </footer>
-</body>
-</html>
+        
