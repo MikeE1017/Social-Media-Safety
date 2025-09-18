@@ -49,12 +49,3 @@ How to be safe while on social media
             <p>Once something is posted online, it can be shared, copied, and saved by others — even if you delete it later. 
                Protect yourself by only sharing information that you are comfortable with anyone seeing.</p>
         </section>
-    </main>
-
-    <!-- FOOTER: Includes internal link to page 2 -->
-    <footer>
-        <p><a href="page2.html">Learn More on Page 2</a></p>
-    </footer>
-</body>
-</html>
-        
