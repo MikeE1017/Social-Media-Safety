@@ -30,8 +30,7 @@ How to be safe while on social media
                 <li>Enable two-factor authentication on all accounts.</li>
                 <li>Think twice before sharing personal information.</li>
                 <li>Review and update privacy settings regularly.</li>
-            </ul>
-            
+            </ul>            
             <!-- ORDERED LIST: Step-by-step actions for account security -->
             <h3>Steps to Protect Your Account</h3>
             <ol>
@@ -41,7 +40,6 @@ How to be safe while on social media
                 <li>Report fake accounts or suspicious messages immediately.</li>
             </ol>
         </section>
-
         <!-- SECTION 3: Image with descriptive alt text -->
         <section>
             <h2>Think Before You Post</h2>
@@ -50,3 +48,12 @@ How to be safe while on social media
             <p>Once something is posted online, it can be shared, copied, and saved by others — even if you delete it later. 
                Protect yourself by only sharing information that you are comfortable with anyone seeing.</p>
         </section>
+    </main>
+
+    <!-- FOOTER: Includes internal link to page 2 -->
+    <footer>
+        <p><a href="page2.html">Learn More on Page 2</a></p>
+    </footer>
+</body>
+</html>
+
