@@ -31,7 +31,8 @@ How to be safe while on social media
                 <li>Think twice before sharing personal information.</li>
                 <li>Review and update privacy settings regularly.</li>
             </ul>
-        <!-- ORDERED LIST: Step-by-step actions for account security -->
+            
+            <!-- ORDERED LIST: Step-by-step actions for account security -->
             <h3>Steps to Protect Your Account</h3>
             <ol>
                 <li>Update your passwords every few months.</li>
