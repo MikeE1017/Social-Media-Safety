@@ -66,5 +66,36 @@ How to be safe while on social media
     <header>
         <h1>Recognizing Social Media Risks</h1>
     </header>
-
+    <!-- MAIN: Primary content for second page -->
+    <main>
+        <!-- SECTION 1: List of common risks -->
+        <section>
+            <h2>Common Online Threats</h2>
+            <p>Many threats exist on social media, but recognizing them helps you avoid problems before they happen.</p>
+            <!-- UNORDERED LIST: Threat types -->
+            <ul>
+                <li><strong>Phishing:</strong> Fake messages or links designed to steal your login info.</li>
+                <li><strong>Catfishing:</strong> People pretending to be someone else online.</li>
+                <li><strong>Malware:</strong> Harmful software spread through suspicious links.</li>
+                <li><strong>Oversharing:</strong> Accidentally revealing private details.</li>
+            </ul>
+        </section>
+        <!-- SECTION 2: Ordered list of good habits -->
+        <section>
+            <h2>Good Habits for Safer Social Media</h2>
+            <p>Practicing these habits daily will help protect your accounts and personal data:</p>
+            <ol>
+                <li>Pause before accepting new friend or follow requests.</li>
+                <li>Check links carefully before clicking on them.</li>
+                <li>Keep your apps, browsers, and devices updated.</li>
+                <li>Teach friends and family about online scams so they can stay safe too.</li>
+            </ol>
+        </section>
+    </main>
+    <!-- FOOTER: Link back to home page -->
+    <footer>
+        <p><a href="index.html">Back to Home</a></p>
+    </footer>
+</body>
+</html>
     
