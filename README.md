@@ -4,8 +4,7 @@ How to be safe while on social media
 <html lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Be Safe on Social Media</title>
-</head>
+   </head>
 <body>
     <!-- HEADER: Contains the main title of the page -->
     <header>
@@ -49,7 +48,6 @@ How to be safe while on social media
                Protect yourself by only sharing information that you are comfortable with anyone seeing.</p>
         </section>
     </main>
-
     <!-- FOOTER: Includes internal link to page 2 -->
     <footer>
         <p><a href="page2.html">Learn More on Page 2</a></p>
@@ -57,3 +55,16 @@ How to be safe while on social media
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+    <!-- HEADER: Contains page title -->
+    <header>
+        <h1>Recognizing Social Media Risks</h1>
+    </header>
+
+    
